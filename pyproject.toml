@@ -1,0 +1,21 @@
+[project]
+name = "jailbreak-eval"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.34.1",
+    "inspect-ai>=0.3.25",
+    "openai>=1.43.0",
+    "pydantic>=2.8.2",
+    "transformers>=4.44.2",
+    "sentencepiece>=0.2.0",
+    "pandas>=2.2.2",
+    "matplotlib>=3.9.2",
+    "seaborn>=0.13.2",
+    "google-api-python-client>=2.144.0",
+    "google-auth>=2.34.0",
+    "google-auth-httplib2>=0.2.0",
+    "google-auth-oauthlib>=1.2.1",
+]
